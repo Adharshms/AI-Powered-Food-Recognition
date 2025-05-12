@@ -86,7 +86,7 @@ AI-Powered-Food-Recognition/
 
 Upload an image like:
 
-![food sample](https://example.com/sample-image.jpg)
+![food sample]([https://example.com/sample-image.jpg](https://storage.googleapis.com/labellerr-cdn/CLIP_Animal_Inf/Screenshot%202023-10-05%20120403.webp))
 
 Output:
 
@@ -134,5 +134,4 @@ For questions or collaborations, contact: [Adharshms](https://github.com/Adharsh
 
 ---
 
-Would you like a version tailored for a Streamlit or Flask implementation specifically?
-```
+ 
