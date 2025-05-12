@@ -34,14 +34,10 @@ Welcome to the **AI-Powered Food Recognition** project! This application uses co
 
 ---
 
-## 🧠 How It Works
-
-1. Upload an image containing food.
-2. The image is preprocessed (resized, normalized).
-3. The image is passed through a deep learning model.
-4. The model outputs the predicted food class.
-5. Results are displayed on the UI.
-
+ 🧠 How It Works
+working video 
+https://drive.google.com/file/d/1wLLs-WKsrrK8d6ca6ZG_lG5qx1sR3EKa/view?usp=drive_link
+ 
 ---
 
 ## 📦 Installation
